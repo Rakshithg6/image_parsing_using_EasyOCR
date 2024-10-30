@@ -1,0 +1,1 @@
+# image_parsing_using_EasyOCR
